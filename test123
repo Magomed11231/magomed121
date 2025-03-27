@@ -7387,9 +7387,9 @@
                         if (null == s && (s = 0), null == l && (l = 0), s = Math.min(0, s), null != this.lIIO1
                             .OlIl0 && (o = Math.abs(this.lIIO1.OlIl0.position.x - t), r = Math.abs(this.lIIO1
                                     .OlIl0.position.y - e), o = Math.min(o, this.lIIO1.l1110.size - o), r = Math
-                                .min(r, this.lIIO1.l1110.size - r), !(o > 32 * (2 + .1 * s) || r > 18 * (2 +
-                                    .1 * s)))) {
-                            for (h = 0, c = d; h <= c; h += 1) {} // Отключаем генерацию частиц
+                                .min(r, this.lIIO1.l1110.size - r), !(o > 0 * (0 + 0 * s) || r > 0 * (0 +
+                                    0 * s)))) {
+                            for (h = 0, c = d; h <= c; h += 0) {} // Отключаем генерацию частиц
 
                         }
                     }, t.prototype.blast = function (t, e, i, s) {
