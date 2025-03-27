@@ -8352,7 +8352,7 @@
                                 uniforms: this.uniforms,
                                 vertexShader: this.vertexshader,
                                 fragmentShader: this.fragmentshader,
-                                transparent: !0,
+                                transparent: !1,
                                 depthWrite: !1,
                                 blending: THREE.AdditiveBlending
                             }), this.I10Ol = new THREE.Mesh(this.lO11l, this.material)
